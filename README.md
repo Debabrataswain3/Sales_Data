@@ -67,8 +67,7 @@ A small sample sales dataset containing:
 ### 📊 **Dashboard / Notebook Link**
 
 🔗 **View Jupyter Notebook:**
-[👉 Sales_Data_Analysis.ipynb](#)
-*(Add your GitHub or Colab notebook link here, e.g. `https://github.com/username/Sales_Data_Analysis/blob/main/Sales_Data_Analysis.ipynb`)*
+[👉 Sales_Data_Analysis.ipynb](https://github.com/Debabrataswain3/Sales_Data/blob/main/sales_chart.png)
 
 ---
 

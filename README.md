@@ -1,10 +1,3 @@
-Absolutely 👍 Here’s a **professional and well-formatted README.md** you can directly use on **GitHub** for your project
-**“Sales_Data Using MySQL and Jupyter Notebook (Python)”** — clear, complete, and ready for upload.
-
----
-
-## 🧾 **README.md**
-
 # 🛍️ Sales_Data Analysis (MySQL + Python in Jupyter Notebook)
 
 ### 📘 **Project Overview**
@@ -34,7 +27,7 @@ A small sample sales dataset containing:
 | `quantity` | Number of units sold |
 | `price`    | Price per unit       |
 
-📂 **Dataset File:** [`sales_data.sql`](./sales_data.sql)
+📂 **Dataset File:** [`sales_data.sql`](https://github.com/Debabrataswain3/Sales_Data/blob/main/sales_db.sql)
 
 > You can import this `.sql` file into MySQL directly using Workbench or the MySQL CLI.
 
